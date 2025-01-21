@@ -19,7 +19,7 @@ Hi there! I'm Waleed, a passionate software engineering student eager to explore
 ![LeetCode Stats](https://github.com/waleeddaud/waleeddaud/blob/main/Screenshot%202025-01-21%20174121.png)")
 
 ## My Projects 🚀
-### 1. **[Connect 4 Game](https://github.com/waleeddaud)**
+### 1. **[Connect 4 Game](https://github.com/waleeddaud/DSA/blob/main/2D-Array/Connect%204%20Game.cpp)**
    - A classic two-player board game built in Python.
    - Uses a simple graphical interface to enhance the user experience.
 
