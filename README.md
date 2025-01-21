@@ -16,7 +16,7 @@ Hi there! I'm Waleed, a passionate software engineering student eager to explore
   - Medium: 50%
 - **Current Streak**: Over 200 days
 
-![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=waleeddaud12&theme=dark)
+![LeetCode Stats](https://github.com/waleeddaud/waleeddaud/blob/main/Screenshot%202025-01-21%20174121.png)")
 
 ## My Projects 🚀
 ### 1. **[Connect 4 Game](https://github.com/waleeddaud)**
