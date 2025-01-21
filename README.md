@@ -23,12 +23,12 @@ Hi there! I'm Waleed, a passionate software engineering student eager to explore
    - A classic two-player board game built in Python.
    - Uses a simple graphical interface to enhance the user experience.
 
-### 2. **BlogApp (FastAPI Backend)**
+### 2. **[BlogApp (FastAPI Backend)](https://github.com/waleeddaud/BlogApp)**
    - A CRUD application for managing blog posts.
    - Developed using **FastAPI**, with a focus on scalability and performance.
    - Features include user authentication, post creation, editing, and deletion.
 
-### 3. **Event Management System (Express.js)**
+### 3. **[Event Management System (Express.js)](https://github.com/waleeddaud/Event-Management-System)**
    - A CRUD application to manage events.
    - Built with **Express.js** for backend services.
    - Includes functionality for event creation, updating, deletion, and user management.
