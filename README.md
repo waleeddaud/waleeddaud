@@ -6,7 +6,6 @@ Hi there! I'm Waleed, a passionate software engineering student eager to explore
 ## Goals and Aspirations
 - 🚀 Become a proficient **Machine Learning Engineer** and a **Full-Stack Developer**.
 - 🏆 Achieve mastery in **C++**, **Python**, and **JavaScript**.
-- 🎯 Solve 500+ problems on **LeetCode** to strengthen my problem-solving skills.
 - 🌟 Build innovative projects that merge creativity and technology.
 
 ## My Projects 🚀
